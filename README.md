@@ -5,8 +5,8 @@ The integration of vector embeddings with graph databases presents a transformat
 * Video - https://drive.google.com/file/d/1OuCOGV7GCechZCdD1P-e681TUV_ElAPI/view?usp=sharing
 
 ## Team Member Information
-* Aditya Raj (22BDS002)
-* Akash Nayak (22BDS003)
+* Akash Nayak 
+* Aditya Raj
 
 ## Project Structure
 
