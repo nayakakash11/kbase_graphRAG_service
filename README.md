@@ -62,7 +62,7 @@ Add your neo4j information (URL, Username and Password)
 ### Run graph-rag/openai+llmsherpa/KGEmbedding_Populate.ipynb
 Add your neo4j information (URL, Username and Password)
 Add your OpenAI key/ Ollama URL 
-If you would like to use our Pre-Trained model use the weights found at this link - [res-summarizer](https://drive.google.com/drive/folders/1tYbMmf66UNj9tPwPKb9_vLzmH9L-ZvVn?usp=sharing), the Colab file used for pre-training is found at - t5-finetuned-model-code/t5_Small_ResSum_Training.ipynb
+If you would like to use our Pre-Trained model use the weights found at this link - [res-summarizer](https://drive.google.com/drive/folders/1tYbMmf66UNj9tPwPKb9_vLzmH9L-ZvVn?usp=sharing)
 
 Look at the nodes and relationships defined on the Neo4j instance console at https://console-preview.neo4j.io/tools/explore
 
