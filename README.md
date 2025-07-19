@@ -18,11 +18,10 @@ kbase-graphrag-serv/
 │   ├── requirements.txt    # Python Library Requirements
 |
 │── graph-rag/              
-|   ├── KGEmbedding_Populate.ipynb   # Embedding Creation on Chunks uploaded on neo4j AuraDB
-|   ├── LayoutPDFReader_KGLoader.ipynb  # llmsherpa ingestor initialisation, neo4j AuraDB schema definition
-|
-│── t5-finetuned-model-code            
-    ├── t5_Small_ResSum_Training.ipynb  # Jupyter notebook, fine tuning code and evaluation code (Can use as Local model, if don't want to utilise OpenAI's GPT-3.5 model, suitable only for text summarization)
+    ├── KGEmbedding_Populate.ipynb   # Embedding Creation on Chunks uploaded on neo4j AuraDB
+    ├── LayoutPDFReader_KGLoader.ipynb  # llmsherpa ingestor initialisation, neo4j AuraDB schema definition
+
+
 ```
 
 
